@@ -22,7 +22,23 @@
      
   },
   "es": {
-    "welcome_message": "¡Bienvenido!",
-    "goodbye_message": "¡Adiós!"
+    "Banned": "Has sido baneado por hacks. Ban ID: ",
+    "Title_webhook_kicked": "Kicked",
+    "Title_webhook_ban": "Banned",
+    "Regenerate_ban.json": "Your bans.json is missing, Regenerating",
+    "Corrupted_ban.json": "Your bans.json is corrupted, Regenerating",
+    "All_Options_Activated": "You have all the options activated, choose only one option",
+    "No_Options_Activated": "You don't have any option activated, please activate some option",
+    "Invalid_Usage": "invalid usage. Try to another form",
+    "Doesnt_Exists": "This user doesnt exists. Try with another id",
+    "Error_Use": "You must add something",
+    "Admin": "This is a admin",
+    "rejectionMsgVPN": "You have a VPN. Please disabled",
+    "rejectionMsgNameFilter": "Your name contains non alphanumeric (a-Z, 0-9) characters. Please change your name.",
+    "No_IDBAN": "You don`t provide a IDBAN example of IDBAN : as_anticheat-24212-5834829",
+    "Self_Options": "Self Options",
+     "Player_Options": "Player Options",
+     "Vehicle_Options": "Vehicle Options",
+     "Dev_Options": "Dev Options"
   }
 }
